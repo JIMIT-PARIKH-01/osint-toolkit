@@ -1,0 +1,2 @@
+# No third-party packages required. Standard library only (socket, struct,
+# urllib, concurrent.futures). Requires Python 3.8+.
