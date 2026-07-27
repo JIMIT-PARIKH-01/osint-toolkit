@@ -11,6 +11,8 @@ Passive open-source-intelligence toolkit — **dependency-free**, GUI + CLI.
 
 Standard library only (`socket`, `struct`, `urllib`, `concurrent.futures`). Python 3.8+.
 
+![demo](docs/demo.png)
+
 ## ⚠️ Authorized/ethical use only
 Investigate footprints you own or are permitted to assess.
 
